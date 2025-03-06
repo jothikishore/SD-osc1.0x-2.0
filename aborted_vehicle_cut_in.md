@@ -23,6 +23,11 @@ Name| Description | Type | Depiction |
 |`ego` | Vehicle under test | `vehicle` |<img src="../../../../actor_images/ego.png" style="width:100px">|
 |`cut_in_vehicle` | Cut-in vehicle | `vehicle` |<img src="../../../../actor_images/sedan/white_sedan.png" style="width:100px">  |
 
+<figure>
+    <img src="aborted_vehicle_cut_in.svg" style="width:700px;padding:7px;border:1px solid grey;">
+    <figcaption>Figure 1: Aborted vehicle cut-in</figcaption>
+</figure>
+
 ## Scenario phases
 The phase descriptions are as follows:
 
